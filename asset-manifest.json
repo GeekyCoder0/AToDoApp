@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AToDoApp/static/css/main.25a79f4f.chunk.css",
+    "main.js": "/AToDoApp/static/js/main.d61f0685.chunk.js",
+    "main.js.map": "/AToDoApp/static/js/main.d61f0685.chunk.js.map",
+    "runtime~main.js": "/AToDoApp/static/js/runtime~main.b41275e0.js",
+    "runtime~main.js.map": "/AToDoApp/static/js/runtime~main.b41275e0.js.map",
+    "static/js/2.5c233a3d.chunk.js": "/AToDoApp/static/js/2.5c233a3d.chunk.js",
+    "static/js/2.5c233a3d.chunk.js.map": "/AToDoApp/static/js/2.5c233a3d.chunk.js.map",
+    "index.html": "/AToDoApp/index.html",
+    "precache-manifest.fbd36f41dfdf8e77db40a70ccb26305a.js": "/AToDoApp/precache-manifest.fbd36f41dfdf8e77db40a70ccb26305a.js",
+    "service-worker.js": "/AToDoApp/service-worker.js",
+    "static/css/main.25a79f4f.chunk.css.map": "/AToDoApp/static/css/main.25a79f4f.chunk.css.map",
+    "static/media/logo.svg": "/AToDoApp/static/media/logo.5d5d9eef.svg"
+  }
+}
