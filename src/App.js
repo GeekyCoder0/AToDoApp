@@ -83,7 +83,7 @@ class App extends React.Component {
           </div>
         </div>
         <div class="footer-copyright text-center py-3  bg-dark fixed-bottom">
-            <p class="text-white">&copy; 2020 . Developed by PRAKASH S</p>
+            <p class="text-white">Copyright &copy; 2019 . Developed by PRAKASH S</p>
         </div>
       </div>
     );
